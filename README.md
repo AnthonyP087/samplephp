@@ -1,4 +1,3 @@
-samplephp
+Anthony Polak 300119082
 =========
-
-A do nothing PHP site to show that you properly configured a PHP site
+updated README file for lab02
